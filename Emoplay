@@ -1,0 +1,10 @@
+yo_soy_capaz/
+├── app/              # Carpeta principal del backend
+│   ├── static/       # Archivos de frontend (HTML, CSS, JS)
+│   ├── templates/    # Plantillas HTML
+│   ├── __init__.py   # Inicializador de la app
+│   ├── models.py     # Modelos de la base de datos
+│   └── routes.py     # Rutas de la aplicación
+├── config.py         # Configuraciones generales
+├── run.py            # Archivo principal para ejecutar la app
+└── requirements.txt  # Lista de dependencias de Python
